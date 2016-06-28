@@ -1,0 +1,77 @@
+
+{
+	"data" : [
+
+		[
+			"Film 1",
+			"1980",
+			"Deutschland",
+			"Darsteller X"
+		],
+		
+		[
+			"Film 2",
+			"1970",
+			"Deutschland",
+			"Darsteller Y"
+		],
+
+		[
+			"Film 3",
+			"1952",
+			"Frankreich",
+			"Darsteller Z"
+		],
+
+		[
+			"Film 4",
+			"2001",
+			"Dänemark",
+			"Darsteller XYZ"
+		],
+
+		[
+			"Film 5",
+			"2010",
+			"USA",
+			"Darsteller G"
+		],
+
+		[
+			"Film 6",
+			"1978",
+			"GB",
+			"Darsteller P"
+		],
+
+		[
+			"Film 7",
+			"2005",
+			"Russland",
+			"Darsteller A"
+		],
+
+		[
+			"Film 8",
+			"2015",
+			"USA",
+			"Darsteller X"
+		],
+
+		[
+			"Film 9",
+			"1996",
+			"Belgien",
+			"Darsteller C"
+		],
+
+		[
+			"Film 10",
+			"2005",
+			"Frankreich",
+			"Darsteller A"
+		]
+	]
+}
+
+
