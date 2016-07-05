@@ -1,4 +1,9 @@
 
+var $ = require("jquery");
+global.jQuery = $;
+var dt = require("datatables")(window, $);
+var tt = require("tooltipster");
+
 
 
 $("#tab_film").DataTable({
